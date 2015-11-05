@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "NewsArticle9317"
+  },
+  "hostingPlanName": {
+    "value": "NewsArticle"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "b8d557c0-5818-49c7-be06-4f75418b74de"
+  },
+  "resourceGroup": {
+    "value": "Default-Storage-WestUS"
+  }
+}
